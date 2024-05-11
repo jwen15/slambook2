@@ -7,7 +7,7 @@ Welcome to Slambook 2nd Edition! This is the codebase of our book. Here are some
 - [code of slambook version 1](https://github.com/gaoxiang12/slambook)
 - [slambook in English](https://github.com/gaoxiang12/slambook-en) (Still on going)
 
-Email me if you have any questions: gao.xiang.thu at gmail dot com. Or send a issue at github if your question is about the code.
+Email me if you have any questions: gao.xiang.thu at gmail dot com. Or send an issue at github if your question is about the code.
 
 Errata will be updated at this code base.
 
